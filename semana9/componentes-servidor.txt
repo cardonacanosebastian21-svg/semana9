@@ -1,0 +1,9 @@
+Sistema operativo: Es la capa base que gestiona los recursos del hardware y permite que el software (Node.js) se ejecute.
+
+Node.js: El entorno de ejecución que permite que JavaScript corra fuera del navegador y gestione solicitudes de red.
+
+Aplicación server.js: Es el código lógico que define qué hacer cuando un usuario pide una ruta (ej. / o /estado).
+
+Puerto: Es un canal lógico (en este caso el 3000) por el cual el servidor "escucha" y recibe el tráfico de internet.
+
+Logs: Son registros cronológicos que escribimos en consola o archivos para saber qué está pasando, ayudando a depurar errores.
