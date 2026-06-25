@@ -1,0 +1,1 @@
+Dependemos de los servicios digitales (bancos, salud, redes sociales). Si un servidor falla, la comunidad pierde acceso a servicios vitales. La estabilidad y seguridad son cruciales porque protegen los datos de las personas y garantizan que la ayuda o información llegue cuando más se necesita.

@@ -1,0 +1,5 @@
+Al ejecutar node server.js, el proceso de Node toma control de la terminal y mantiene el servidor activo.
+
+En la terminal aparece: "Servidor ejecutándose en puerto 3000".
+
+Al visitar http://localhost:3000/estado, el navegador muestra un objeto JSON con el estado del servidor y el servicio.
